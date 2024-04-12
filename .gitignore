@@ -1,2 +1,7 @@
-.obsidian/
 .idea/
+
+.obsidian/*
+# Don't you love gitignore rules?
+!.obsidian/plugins/
+.obsidian/plugins/*/*
+!.obsidian/plugins/*/data.json
