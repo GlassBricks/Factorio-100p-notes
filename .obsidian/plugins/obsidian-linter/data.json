@@ -193,7 +193,7 @@
     },
     "heading-blank-lines": {
       "enabled": true,
-      "bottom": true,
+      "bottom": false,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
@@ -258,7 +258,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": false,

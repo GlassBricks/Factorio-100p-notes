@@ -1,3 +1,5 @@
+#mid-game 
+
 This page is for listing ideas related to 2-way train system.
 
 2-way rail outposts are simply cheaper, more flexible, and faster to setup than belts. They should be transitioned to _eventually_.
@@ -39,7 +41,7 @@ A station is kinda big, taking up space. Gathering patches next to each other be
 We want to avoid 2-headed train, as its both more costly and less efficient.
 Possible ideas:
 - Design several outposts with stations in multiple configurations. A bit difficult, especially with multiple outpost sizes.
-- See: [[Possible new strats#"Flexible" train outposts by connecting belt]]
+- See: [[possible new ideas/Readme#"Flexible" train outposts by connecting belt]]
 ## Maybe lost opportunity with close outposts
 
 If an outpost is super close (there's usually 1 or 2... out of a lot), belt and base bots are cheaper and faster.

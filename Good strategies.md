@@ -38,7 +38,7 @@ Mostly just for prod/speed 3s.
 When the reduced cost of internal buffers outweighs the cost of the materials produced 
 
 ## Power armor before rocket
-Depends on [[Possible new strats#Don't rely on logistics bots _at all_]]
+Depends on [[possible new ideas/Readme#Don't rely on logistics bots _at all_]]
 Rocket and power armor mk2 share much of the same resources. And both need to be produced anyways.
 If rocket can be delayed as much as we want, then we should prioritize all those resources (possibly in chest buffers) to power armor before the rocket even starts crafting.
 

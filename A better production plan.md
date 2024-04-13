@@ -1,3 +1,4 @@
+#production-plan 
 # Motivation
 All our guts are telling us the current meta production order is far from optimal.
 The target time should be... as low as possible.
@@ -10,8 +11,8 @@ Here are some questions to answer:
 	- How much mining? How many speed modules? 
 	- Prod 1s, 2s, or 3s? 
 	- How many bots?
-	- See also [[Possible new strats#Late game]]
-- How big is the base actually gonna be? See [[Possible new strats#Outposts that connect to main base]]
+	- See also [[possible new ideas/Readme#Late game]]
+- How big is the base actually gonna be? See [[possible new ideas/Readme#Outposts that connect to main base]]
 # How much modulage?
 ### Earlier modules?
 In the old meta, modules are also produced kinda slowly and take a while to actually exist, so you don't get their benefits for quite a while.
